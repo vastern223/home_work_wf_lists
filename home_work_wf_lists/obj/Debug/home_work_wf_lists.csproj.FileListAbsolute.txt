@@ -1,0 +1,10 @@
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\bin\Debug\home_work_wf_lists.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\bin\Debug\home_work_wf_lists.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\bin\Debug\home_work_wf_lists.pdb
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.Form1.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_lists\home_work_wf_lists\obj\Debug\home_work_wf_lists.pdb

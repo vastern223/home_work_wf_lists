@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Surname>vasa1</Surname>
+    <Salary>2</Salary>
+    <Position>admin</Position>
+    <Street>dzerelna</Street>
+    <City>lutsk</City>
+    <House>2</House>
+  </Employee>
+  <Employee>
+    <Surname>vasa2</Surname>
+    <Salary>1</Salary>
+    <Position>designer</Position>
+    <Street>prosepctova</Street>
+    <City>lutsk</City>
+    <House>3</House>
+  </Employee>
+</ArrayOfEmployee>
